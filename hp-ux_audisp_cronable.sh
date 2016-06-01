@@ -6,7 +6,7 @@
 #where the log needs to reside
 
 file0=/your/audit/log/binary
-file1/path/to/your/new/log.log
+file1=/path/to/your/new/log.log
 
 
 # Run as root
